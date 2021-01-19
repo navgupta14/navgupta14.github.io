@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![](/images/dp.png)
+
 I live in Seattle and work at AWS as a Software Engineer.
 
 I’m passionate about building products that solve real, human problems.
